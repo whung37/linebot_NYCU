@@ -25,7 +25,7 @@ LINE_CHANNEL_ACCESS_TOKEN = 'IJlZVMxOd5AriX9iwxg81+1JuT799w1TX3B6FfnJLWtm+UqLw+m
 LINE_CHANNEL_SECRET = '4b3bd98fce5dae4bc93368df3c127650'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['*']
 
